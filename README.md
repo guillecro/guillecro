@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Guillermo Croppi</h1>
 <h3 align="center">I am a system engineer, and I am a fullstack web developer. I work as a freelancer, cause I like to meet my clients, and work with them. Passionated with e-democracy, how technology is involved in democratic process.</h3>
 
