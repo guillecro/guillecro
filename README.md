@@ -1,5 +1,7 @@
 <h1>Hi 👋, I'm Guillermo Croppi</h1>
+
 *I am a system engineer, and I am a fullstack web developer. I work as a freelancer, cause I like to meet my clients, and work with them. Passionated with e-democracy, how technology is involved in democratic process*
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guillecro&label=Profile%20views&color=0e75b6&style=flat" alt="guillecro" /> </p>
 
