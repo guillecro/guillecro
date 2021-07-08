@@ -1,6 +1,10 @@
 <h1>Hi 👋, I'm Guillermo Croppi</h1>
 
-*I am a system engineer, and I am a fullstack web developer.<br>Passionated with e-democracy, how technology is involved in democratic process*
+I am a system engineer, and I am a fullstack web developer.
+
+I am passionated for e-democracy and the open goverment, which is what I love to do and hopefully I can work in that fields as much as possible. I am convinced that technology can empower citizens with their rights, and even expand them.
+
+We still have a lot to do but politicians, and citizens, can truly find a virtual space, a new kind of agora, in this digital era, and involve technology to democratic processes.
 
 ![views](https://komarev.com/ghpvc/?username=guillecro&style=flat-square&label=VIEWS)
 ---
