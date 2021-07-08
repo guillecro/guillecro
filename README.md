@@ -5,15 +5,15 @@
 ![views](https://komarev.com/ghpvc/?username=guillecro&style=flat-square&label=VIEWS)
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me</h3>
 <p align="left">
-  <img alt="Twitter" src="https://img.shields.io/badge/guillermocroppi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-<img alt="Instagram" src="https://img.shields.io/badge/guillermocroppi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img alt="Telegram" src="https://img.shields.io/badge/ZachariasVonZaqueo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://twitter.com/guillermocroppi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://instagram.com/guillermocroppi" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/ZachariasVonZaqueo" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
-<h3 align="left">A bunch of stuff I play with:</h3>
+<h3 align="left">A bunch of stuff I play with</h3>
 
 <p align="left">
 
