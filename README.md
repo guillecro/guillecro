@@ -17,7 +17,7 @@ We still have a lot to do but politicians, and citizens, can truly find a virtua
 </p>
 
 ---
-<h3 align="left">A bunch of stuff I play with</h3>
+<h3 align="left">A bunch of stuff I play with (and many more)</h3>
 
 <p align="left">
 
